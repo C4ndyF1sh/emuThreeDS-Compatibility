@@ -2,7 +2,7 @@ state-playable means that the game is fully playable.
 
 state-ingame means somewhat playable past title screens (including with graphics bugs, crashes, saving, loading and other major problems).
 
-state-intro means nothing but an intro/opening of the game is shown (such as a video/animation/company name/etc.).
+state-intro means nothing but an intro/opening/menu of the game is shown (such as a video/animation/company name/etc.).
 
 state-loadable means that the game is capable of being read but can't actually start/run yet. If the game is at least trying to run some frames (framerate is anything other than zero), should be reported as loadable and not nothing.
 
